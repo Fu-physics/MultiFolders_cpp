@@ -1,0 +1,17 @@
+Date Aug. 12, 2020
+Author: Fu Li
+Email: fuli.phys@gmail.com
+
+Files 
+    1 Makefile: is the file for make command
+    2 ./src: contains all source files, such as main.cpp and *.cpp
+    3 ./obj: location for compiled object files from source fiels
+    4 ./include: contains all head files
+    5 ./gnuplot: gnuplot file for ploting
+
+Note:
+    Makefile:
+        only and must be 'make plot' running on windows, others are Linux command. This means that we need two terminals, 
+        one is used for programing compiling and runing in Linux enviroment, the second is used to plot the data and generate a pdf figure on Windows enviroment.
+
+
